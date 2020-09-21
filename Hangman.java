@@ -137,6 +137,6 @@ public class Hangman {
 			hangmanGame.newCase();
 			hangmanGame.play();
 			
-			//Time to Test
+			//Time to Test haha 
 		}
 }
